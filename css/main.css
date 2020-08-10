@@ -1,2 +1,23 @@
+h1{ 
+    text-align: center;
+    color: #d54062;
+}
+h2{
+    text-align: center;
+    color: #c9506c
 
-/*  Put your CSS Here */
+}
+body {
+    background-color: dimgrey;
+}
+img {
+    text-align: left;
+}
+.contact{
+    font-weight: bold ;
+    color: white;
+    text-decoration: none;
+  }
+  a:hover {
+  text-decoration: underline;
+  }
